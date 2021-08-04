@@ -1,0 +1,3 @@
+.category-card.odd .category-detail{
+    order: -1 !important;
+}
